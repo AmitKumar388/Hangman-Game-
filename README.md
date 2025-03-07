@@ -18,7 +18,7 @@ Click the Link :
 
 🎯 How to Play
 
-🔹 Enter a letter to guess the hidden word. 🔤
+🔹 Enter a letter to guess the hidden word. 🔤 
 🔹 Correct guesses reveal the letter in the word. ✅
 🔹 Incorrect guesses reduce attempts and draw the hangman. ⚠️
 🔹 Win by guessing the word before the hangman is complete! 🎭
